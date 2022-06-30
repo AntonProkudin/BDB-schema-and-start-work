@@ -1,0 +1,13 @@
+C:\Users\anton\source\repos\sol1\sol1\bin\Debug\libdb61.dll
+C:\Users\anton\source\repos\sol1\sol1\bin\Debug\libdb_csharp61.dll
+C:\Users\anton\source\repos\sol1\sol1\bin\Debug\sol1.exe.config
+C:\Users\anton\source\repos\sol1\sol1\bin\Debug\sol1.exe
+C:\Users\anton\source\repos\sol1\sol1\bin\Debug\sol1.pdb
+C:\Users\anton\source\repos\sol1\sol1\bin\Debug\libdb_dotnet61.dll
+C:\Users\anton\source\repos\sol1\sol1\bin\Debug\libdb_dotnet61.xml
+C:\Users\anton\source\repos\sol1\sol1\obj\Debug\GetStart.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\sol1\sol1\obj\Debug\GetStart.csproj.SuggestedBindingRedirects.cache
+C:\Users\anton\source\repos\sol1\sol1\obj\Debug\GetStart.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\sol1\sol1\obj\Debug\GetStart.csproj.CopyComplete
+C:\Users\anton\source\repos\sol1\sol1\obj\Debug\sol1.exe
+C:\Users\anton\source\repos\sol1\sol1\obj\Debug\sol1.pdb
